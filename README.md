@@ -1,7 +1,8 @@
 # Mi Proyecto Web — Módulo 2
 
 ## Descripción
-Proyecto académico para practicar programación web, control de versiones con Git y colaboración mediante GitHub.
+
+Proyecto académico para desarrollar una página de servicios, mejorar el diseño web y documentar el trabajo colaborativo mediante GitHub.
 
 ## Tecnologías
 - HTML5
