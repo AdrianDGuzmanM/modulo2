@@ -2,7 +2,9 @@
 
 ## Descripción
 
-Proyecto académico para desarrollar una página de servicios, mejorar el diseño web y documentar el trabajo colaborativo mediante GitHub.
+
+Proyecto académico para practicar programación web, desarrollar páginas de contacto y servicios, y documentar el trabajo colaborativo mediante GitHub.
+
 
 ## Tecnologías
 - HTML5
